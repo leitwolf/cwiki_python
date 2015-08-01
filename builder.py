@@ -232,7 +232,7 @@ def get_root(node):
     return root
 
 
-# 写入的目录
+# 写入的目录test
 def get_write_folder(node):
     path = ""
     # 根节点
